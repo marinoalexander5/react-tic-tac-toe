@@ -1,0 +1,13 @@
+.casilla {
+    border-radius: 0;
+    height: 135px;
+    width: 180px;
+    margin: 2px;
+    font-size: 60px;
+}
+
+.tablero {
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 33.333333%
+}
