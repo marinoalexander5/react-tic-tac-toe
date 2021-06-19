@@ -1,3 +1,15 @@
+# Tic-Tac-Toe React Game
+
+### Dependencies:
+- react-bootstrap
+- bootstrap@4.1.1
+
+
+https://user-images.githubusercontent.com/14629695/122644871-c839f480-d0ed-11eb-9081-f067fb7ba771.mp4
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
